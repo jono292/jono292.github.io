@@ -44,6 +44,16 @@ font-family: "googlesans_regular";
  font-size: 12px;   
 }
 
+.mdp-card-title {
+    padding-left: 12px;
+    padding-top: 2px;
+}
+
+.mdp-card-body {
+    padding-left: 12px;
+    padding-top: 2px;
+}
+
 p {
     font-family: 'Roboto', sans-serif;
 }
