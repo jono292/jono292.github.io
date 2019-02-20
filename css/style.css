@@ -39,3 +39,7 @@ font-family: "googlesans_regular";
     width: 80vw;
     height: 250px;
 }
+
+.mdp-card-body {
+ font-size: 12px;   
+}
