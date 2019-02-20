@@ -43,3 +43,7 @@ font-family: "googlesans_regular";
 .mdp-card-body {
  font-size: 12px;   
 }
+
+p {
+    font-family: 'Roboto', sans-serif;
+}
