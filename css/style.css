@@ -28,3 +28,14 @@ font-family: "googlesans_regular";
  padding-top: 10px;
  padding-left: 5px;
 }
+
+.card {
+    background-color: #fff;
+    border: .1rem solid #fff;
+    -webkit-border-radius: .8rem;
+    border-radius: .8rem;
+    overflow: hidden;
+    text-align: left;
+    width: 80vw;
+    height: 250px;
+}
